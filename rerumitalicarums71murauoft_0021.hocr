@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rerumitalicarums71murauoft_0021.png"; bbox 0 0 2372 3502; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 44 416 2023 960">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 44 416 2023 960">
+     <span class='ocr_line' id='line_1_1' title="bbox 494 416 1701 560; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 494 416 1701 560; x_wconf 71' lang='lat' dir='ltr'>ROMUALDI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 44 703 2023 960; baseline 0.003 -70"><span class='ocrx_word' id='word_1_2' title='bbox 44 703 2023 960; x_wconf 62' lang='lat' dir='ltr'>&#39;SALERNITANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 586 1096 1569 1187">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 586 1096 1569 1187">
+     <span class='ocr_line' id='line_1_3' title="bbox 586 1096 1569 1187; baseline 0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 586 1096 1569 1187; x_wconf 64' lang='lat' dir='ltr'>&#39;CHRONICON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 5 0 52 3502">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 5 0 52 3502">
+     <span class='ocr_line' id='line_1_4' title="bbox 5 0 52 3502; baseline 0 -2414"><span class='ocrx_word' id='word_1_4' title='bbox 5 0 52 3502; x_wconf 95' lang='lat' dir='ltr'><em>   </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1004 1745 1176 1770">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1004 1745 1176 1770">
+     <span class='ocr_line' id='line_1_5' title="bbox 1004 1745 1176 1770; baseline 0.006 -1"><span class='ocrx_word' id='word_1_5' title='bbox 1004 1745 1176 1770; x_wconf 70' lang='lat' dir='ltr'>AAAAA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 537 3121 1645 3154">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 537 3121 1645 3154">
+     <span class='ocr_line' id='line_1_6' title="bbox 537 3121 1645 3154; baseline 0.007 -8"><span class='ocrx_word' id='word_1_6' title='bbox 537 3121 1645 3154; x_wconf 79' lang='lat' dir='ltr'><em>IIIIIIIIIIIIIIIIIIIIIIIIIIIIII</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
